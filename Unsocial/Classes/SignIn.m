@@ -31,6 +31,7 @@ UITextField *txtUsername, *txtPassword;
 	// for disappearing activityvew at the header
 	[activityView stopAnimating];
 	[self createControls];
+	// added by pradeep for git hub test
 }
 
 - (void)viewWillAppear:(BOOL)animated {
