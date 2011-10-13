@@ -2081,6 +2081,7 @@ BOOL didAppEnterBackGround;
 	
 	// rackspace for test app	
 	globalUrlString = @"http://unsocial.us/unsocialtest";
+	// comment for testing git hub stash
 	
 	/*UIImage *image = [UIImage imageNamed: @"header_trans.png"];
 	UIImageView *imageview = [[UIImageView alloc] initWithImage: image];
