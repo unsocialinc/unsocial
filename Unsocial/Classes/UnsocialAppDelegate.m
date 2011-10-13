@@ -20,6 +20,7 @@
 //#import <mach/mach_host.h>
 
 	// saran 13 Oct
+	// 2nd line
 
 BOOL flg4autoupdatebadge;
 NSInteger flglocationupdate=0;
