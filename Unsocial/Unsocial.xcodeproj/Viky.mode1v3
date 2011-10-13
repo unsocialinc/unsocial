@@ -336,7 +336,7 @@
 										<key>_historyCapacity</key>
 										<integer>20</integer>
 										<key>bookmark</key>
-										<string>30A6D3841446CF1900AB0583</string>
+										<string>30A6D4E61446EC5C00AB0583</string>
 										<key>history</key>
 										<array>
 											<string>309586B213A7510F002C0520</string>
@@ -358,7 +358,7 @@
 											<string>3095882113A77CA4002C0520</string>
 											<string>3095882213A77CA4002C0520</string>
 											<string>309FBA4D1446CC1000A481E8</string>
-											<string>309FBA4F1446CC1000A481E8</string>
+											<string>30A6D48A1446EC3200AB0583</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -416,9 +416,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>30A6D3851446CF1900AB0583</string>
+				<string>30A6D4C01446EC5C00AB0583</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>30A6D3861446CF1900AB0583</string>
+				<string>30A6D4C11446EC5C00AB0583</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -637,7 +637,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>30C92954118F00A1006FCD5F</string>
-				<string>30A6D3871446CF1900AB0583</string>
+				<string>30A6D4C21446EC5C00AB0583</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -757,13 +757,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>3095854513A732BF002C0520</string>
+				<string>30A6D4801446E67100AB0583</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>3095854613A732BF002C0520</string>
-				<string>3095854713A732BF002C0520</string>
-				<string>3095854813A732BF002C0520</string>
-				<string>3095854913A732BF002C0520</string>
-				<string>3095854A13A732BF002C0520</string>
+				<string>30A6D4811446E67100AB0583</string>
+				<string>30A6D4821446E67100AB0583</string>
+				<string>30A6D4831446E67100AB0583</string>
+				<string>30A6D4841446E67100AB0583</string>
+				<string>30A6D4851446E67100AB0583</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -882,8 +882,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -919,7 +917,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>3095854D13A732D2002C0520</string>
+				<string>30A6D4861446E67100AB0583</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>
@@ -929,7 +927,7 @@
 			<key>WindowToolGUID</key>
 			<string>1C78EAAD065D492600B07095</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>Identifier</key>
