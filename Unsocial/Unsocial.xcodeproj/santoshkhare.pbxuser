@@ -10,8 +10,13 @@
 	1D3623250D0F684500981E51 /* UnsocialAppDelegate.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {902, 33072}}";
+<<<<<<< Updated upstream
 			sepNavSelRange = "{951, 0}";
 			sepNavVisRange = "{42, 1426}";
+=======
+			sepNavSelRange = "{980, 0}";
+			sepNavVisRange = "{305, 1409}";
+>>>>>>> Stashed changes
 			sepNavWindowFrame = "{{0, 60}, {1280, 718}}";
 		};
 	};
@@ -147,8 +152,13 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
+<<<<<<< Updated upstream
 			PBXPerProjectTemplateStateSaveDate = 340193310;
 			PBXWorkspaceStateSaveDate = 340193310;
+=======
+			PBXPerProjectTemplateStateSaveDate = 340193181;
+			PBXWorkspaceStateSaveDate = 340193181;
+>>>>>>> Stashed changes
 		};
 		perUserProjectItems = {
 			BB1D2A8E139E64BC00E87D82 /* PBXTextBookmark */ = BB1D2A8E139E64BC00E87D82 /* PBXTextBookmark */;
@@ -288,7 +298,11 @@
 			BB9B1F8113CB421500ED39C9 /* PBXTextBookmark */ = BB9B1F8113CB421500ED39C9 /* PBXTextBookmark */;
 			BB9BDD71129BD838006EAC0E /* PBXTextBookmark */ = BB9BDD71129BD838006EAC0E /* PBXTextBookmark */;
 			BB9DB30E1446E95100D16F7E /* PBXTextBookmark */ = BB9DB30E1446E95100D16F7E /* PBXTextBookmark */;
+<<<<<<< Updated upstream
 			BB9DB3C11446F02500D16F7E /* PBXTextBookmark */ = BB9DB3C11446F02500D16F7E /* PBXTextBookmark */;
+=======
+			BB9DB3661446EFB600D16F7E /* PBXTextBookmark */ = BB9DB3661446EFB600D16F7E /* PBXTextBookmark */;
+>>>>>>> Stashed changes
 			BB9E739412D35B9C00C80026 /* PBXTextBookmark */ = BB9E739412D35B9C00C80026 /* PBXTextBookmark */;
 			BB9E873813963E4900D82706 /* PBXTextBookmark */ = BB9E873813963E4900D82706 /* PBXTextBookmark */;
 			BB9E873B13963E4900D82706 /* PBXTextBookmark */ = BB9E873B13963E4900D82706 /* PBXTextBookmark */;
@@ -2877,20 +2891,29 @@
 		fRef = 1D3623250D0F684500981E51 /* UnsocialAppDelegate.m */;
 		name = "UnsocialAppDelegate.m: 33";
 		rLen = 0;
-		rLoc = 951;
+		rLoc = 980;
 		rType = 0;
 		vrLen = 1451;
 		vrLoc = 305;
 	};
+<<<<<<< Updated upstream
 	BB9DB3C11446F02500D16F7E /* PBXTextBookmark */ = {
+=======
+	BB9DB3661446EFB600D16F7E /* PBXTextBookmark */ = {
+>>>>>>> Stashed changes
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* UnsocialAppDelegate.m */;
-		name = "UnsocialAppDelegate.m: 33";
+		name = "UnsocialAppDelegate.m: 34";
 		rLen = 0;
-		rLoc = 951;
+		rLoc = 980;
 		rType = 0;
+<<<<<<< Updated upstream
 		vrLen = 1426;
 		vrLoc = 42;
+=======
+		vrLen = 1409;
+		vrLoc = 305;
+>>>>>>> Stashed changes
 	};
 	BB9E739412D35B9C00C80026 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;

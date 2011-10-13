@@ -33,6 +33,7 @@ BOOL didAppEnterBackGround;
 @synthesize bestEffortAtLocation;
 
 // 13 oct 2011
+// 13 oct 2nd cmt by pradeep
 
 
 //- (void)applicationDidFinishLaunching:(UIApplication *)application
