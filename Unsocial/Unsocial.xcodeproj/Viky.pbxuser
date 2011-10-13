@@ -9,9 +9,9 @@
 	};
 	1D3623250D0F684500981E51 /* UnsocialAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {581, 33020}}";
-			sepNavSelRange = "{606, 0}";
-			sepNavVisRange = "{0, 1374}";
+			sepNavIntBoundsRect = "{{0, 0}, {581, 33098}}";
+			sepNavSelRange = "{969, 0}";
+			sepNavVisRange = "{343, 1360}";
 			sepNavWindowFrame = "{{80, 117}, {1200, 656}}";
 		};
 	};
@@ -200,8 +200,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 340192559;
-			PBXWorkspaceStateSaveDate = 340192559;
+			PBXPerProjectTemplateStateSaveDate = 340192664;
+			PBXWorkspaceStateSaveDate = 340192664;
 		};
 		perUserProjectItems = {
 			309586B213A7510F002C0520 /* PBXTextBookmark */ = 309586B213A7510F002C0520 /* PBXTextBookmark */;
@@ -223,8 +223,8 @@
 			3095882113A77CA4002C0520 /* PBXTextBookmark */ = 3095882113A77CA4002C0520 /* PBXTextBookmark */;
 			3095882213A77CA4002C0520 /* PBXBookmark */ = 3095882213A77CA4002C0520 /* PBXBookmark */;
 			309FBA4D1446CC1000A481E8 /* PBXTextBookmark */ = 309FBA4D1446CC1000A481E8 /* PBXTextBookmark */;
-			30A6D4E61446EC5C00AB0583 /* PBXTextBookmark */ = 30A6D4E61446EC5C00AB0583 /* PBXTextBookmark */;
 			30E55F3B1446ED6F009205C3 /* PBXTextBookmark */ = 30E55F3B1446ED6F009205C3 /* PBXTextBookmark */;
+			30E55F731446EDA9009205C3 /* PBXTextBookmark */ = 30E55F731446EDA9009205C3 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 30C92855118EFF1D006FCD5F /* Source Control */;
 		userBuildSettings = {
@@ -772,16 +772,6 @@
 			sepNavVisRange = "{0, 1178}";
 		};
 	};
-	30A6D4E61446EC5C00AB0583 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* UnsocialAppDelegate.m */;
-		name = "UnsocialAppDelegate.m: 22";
-		rLen = 0;
-		rLoc = 606;
-		rType = 0;
-		vrLen = 1436;
-		vrLoc = 0;
-	};
 	30B22C641202B1F9008019A3 /* dashimgstatusback.png */ = {
 		uiCtxt = {
 			sepNavWindowFrame = "{{80, 0}, {604, 778}}";
@@ -1027,6 +1017,16 @@
 		rType = 0;
 		vrLen = 1374;
 		vrLoc = 0;
+	};
+	30E55F731446EDA9009205C3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* UnsocialAppDelegate.m */;
+		name = "UnsocialAppDelegate.m: 35";
+		rLen = 0;
+		rLoc = 969;
+		rType = 0;
+		vrLen = 1360;
+		vrLoc = 343;
 	};
 	BB0ADD1B1236862A00287CDC /* AppNotAvailable.m */ = {
 		uiCtxt = {
