@@ -30,6 +30,8 @@ BOOL didAppEnterBackGround;
 @synthesize username, userid, locationManager;
 @synthesize bestEffortAtLocation;
 
+// 13 oct 2011
+
 
 //- (void)applicationDidFinishLaunching:(UIApplication *)application
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions 

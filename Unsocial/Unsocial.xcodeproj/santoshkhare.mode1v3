@@ -273,8 +273,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>10</integer>
-									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -309,6 +307,8 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -326,7 +326,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>BB9DB0E31446D74900D16F7E</string>
+										<string>BB9DB2AF1446DC6A00D16F7E</string>
 										<key>history</key>
 										<array>
 											<string>BBA295C212707F750095543F</string>
@@ -589,7 +589,7 @@
 											<string>BB9471FC1434BFB600897D9F</string>
 											<string>BB95E0C81439836000BBEA70</string>
 											<string>BB9AB3221445BD3F00508720</string>
-											<string>BB9DB0871446D6C200D16F7E</string>
+											<string>BB9DB2571446DC1700D16F7E</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -601,14 +601,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {963, 612}}</string>
+								<string>{{0, 0}, {963, 609}}</string>
 								<key>RubberWindowFrame</key>
 								<string>49 42 1279 704 0 0 1360 746 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>612pt</string>
+							<string>609pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -621,14 +621,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 617}, {963, 46}}</string>
+								<string>{{0, 614}, {963, 49}}</string>
 								<key>RubberWindowFrame</key>
 								<string>49 42 1279 704 0 0 1360 746 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>46pt</string>
+							<string>49pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -647,9 +647,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>BB9DB0BD1446D71900D16F7E</string>
+				<string>BB9DB2B01446DC6A00D16F7E</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>BB9DB0BE1446D71900D16F7E</string>
+				<string>BB9DB2B11446DC6A00D16F7E</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -866,7 +866,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>BB6CCC1511907A3D000EE2A1</string>
-				<string>BB9DB0BF1446D71900D16F7E</string>
+				<string>BB9DB2B21446DC6A00D16F7E</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

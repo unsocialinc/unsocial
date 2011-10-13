@@ -16,6 +16,28 @@ git commit -a -m "msg"\
 \
 git push\
 \
+********************\
+Problem:\
+loosing my all changes\
+\
+\
+Pradeeps-Mac-mini:unsocial santoshkhare$ git status -s\
+ M Unsocial/Classes/UnsocialAppDelegate.m\
+ M Unsocial/Unsocial.xcodeproj/santoshkhare.mode1v3\
+ M Unsocial/Unsocial.xcodeproj/santoshkhare.pbxuser\
+Pradeeps-Mac-mini:unsocial santoshkhare$ git stash\
+Saved working directory and index state WIP on master: 91ed2c0 stash apply aborted\
+HEAD is now at 91ed2c0 stash apply aborted\
+Pradeeps-Mac-mini:unsocial santoshkhare$ git status -s\
+Pradeeps-Mac-mini:unsocial santoshkhare$ git commit -a -m "problem"\
+# On branch master\
+nothing to commit (working directory clean)\
+Pradeeps-Mac-mini:unsocial santoshkhare$ git push\
+Everything up-to-date\
+Pradeeps-Mac-mini:unsocial santoshkhare$ pwd\
+/Users/santoshkhare/documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial\
+\
+\
 \
 \
 }
