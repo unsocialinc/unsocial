@@ -1920,7 +1920,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
 				PREBINDING = NO;
 				PRODUCT_NAME = "$(BASE_PRODUCT_NAME)";
-				SDKROOT = iphoneos4.1;
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
