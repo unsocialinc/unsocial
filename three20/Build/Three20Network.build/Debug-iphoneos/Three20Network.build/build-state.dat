@@ -1,0 +1,1292 @@
+TThree20Network
+v7
+r0
+t340704746.997591
+cCheck dependencies
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/Three20Network.h Headers/Three20Network.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTGlobalNetwork.h Headers/TTGlobalNetwork.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTUserInfo.h Headers/TTUserInfo.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModel.h Headers/TTModel.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h Headers/TTModelDelegate.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTRequestLoader.h Headers/TTRequestLoader.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h Headers/TTURLCache.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLDataResponse.h Headers/TTURLDataResponse.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLImageResponse.h Headers/TTURLImageResponse.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequest.h Headers/TTURLRequest.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h Headers/TTURLRequestCachePolicy.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h Headers/TTURLRequestDelegate.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestModel.h Headers/TTURLRequestModel.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestQueue.h Headers/TTURLRequestQueue.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLResponse.h Headers/TTURLResponse.h
+cCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTURLRequestQueueInternal.h Headers/TTURLRequestQueueInternal.h
+cPhaseScriptExecution "Protect Copied Headers" /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+cProcessPCH /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch.gch Headers/Three20Network_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch.gch Headers/Three20Network_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTGlobalNetwork.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTUserInfo.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTRequestLoader.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLCache.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLDataResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLImageResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequest.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestQueue.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/libThree20Network.a normal armv6
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/libThree20Network.a normal armv7
+cCreateUniversalBinary /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004E8ACDC60000000000000110
+t1317719494
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54D1DD0000000000001466
+t1297404381
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5A28AB0000000000000AA1
+t1297754283
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/TargetConditionals.h
+c000000004D4F74C200000000000031E9
+t1297052866
+s12777
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include/pthread.h
+c000000004D4F6E910000000000003BF6
+t1297051281
+s15350
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Core/NSArrayAdditions.h
+c000000004E9D1F7F0000000000000788
+t1318920063
+s1928
+i<Foundation/Foundation.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Core/NSObjectAdditions.h
+c000000004E9D1F7F0000000000000574
+t1318920063
+s1396
+i<Foundation/Foundation.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Core/NSStringAdditions.h
+c000000004E9D1F7F0000000000000BE7
+t1318920063
+s3047
+i<Foundation/Foundation.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Core/TTCorePreprocessorMacros.h
+c000000004E9D1F7F0000000000000876
+t1318920063
+s2166
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Core/TTDebug.h
+c000000004E9D1F7F0000000000000EBD
+t1318920063
+s3773
+i<TargetConditionals.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Core/TTDebugFlags.h
+c000000004E9D1F7F00000000000004D6
+t1318920063
+s1238
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Core/TTGlobalCore.h
+c000000004E9D1F7F00000000000005E6
+t1318920063
+s1510
+i<Foundation/Foundation.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Core/TTGlobalCorePaths.h
+c000000004E9D1F7F00000000000005D7
+t1318920063
+s1495
+i<Foundation/Foundation.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Network/private/TTRequestLoader.h
+c000000004E9D1F870000000000000F9A
+t1318920071
+s3994
+i<Foundation/Foundation.h>
+i"Three20Network/TTURLRequestCachePolicy.h"
+i"Three20Core/TTCorePreprocessorMacros.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/Build/Products/three20/Three20Network/private/TTURLRequestQueueInternal.h
+c000000004E9D1F870000000000000556
+t1318920071
+s1366
+i"Three20Network/TTURLRequestQueue.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTGlobalNetwork.h
+t1318920071
+s1405
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModel.h
+t1318920071
+s3307
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h
+t1318920071
+s2216
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h
+t1318920071
+s6378
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLDataResponse.h
+t1318920071
+s867
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLImageResponse.h
+t1318920071
+s1076
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequest.h
+t1318920071
+s6768
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h
+t1318920071
+s1231
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h
+t1318920071
+s1731
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestModel.h
+t1318920071
+s1697
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestQueue.h
+t1318920071
+s3500
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLResponse.h
+t1318920071
+s1615
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTUserInfo.h
+t1318920071
+s1651
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/Three20Network.h
+t1318920071
+s1379
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTRequestLoader.h
+t1318920071
+s3994
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTURLRequestQueueInternal.h
+t1318920071
+s1366
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a
+t1318920076
+s614056
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTGlobalNetwork.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTModel.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTModelDelegate.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLCache.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLDataResponse.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLImageResponse.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequest.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequestModel.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequestQueue.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLResponse.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/TTUserInfo.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/Three20Network.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/private/TTRequestLoader.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/../three20/Three20Network/private/TTURLRequestQueueInternal.h
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/libThree20Network.a
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTGlobalNetwork.o
+t1318920071
+s12124
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTModel.o
+t1318920071
+s17540
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTRequestLoader.o
+t1318920072
+s42052
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLCache.o
+t1318920072
+s56572
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLDataResponse.o
+t1318920072
+s12148
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLImageResponse.o
+t1318920073
+s16248
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequest.o
+t1318920073
+s50108
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestModel.o
+t1318920073
+s22916
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestQueue.o
+t1318920074
+s61244
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTUserInfo.o
+t1318920071
+s12636
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/Three20Network.LinkFileList
+c000000004E9D1F87000000000000085A
+t1318920071
+s2138
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/libThree20Network.a
+t1318920074
+s309248
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o
+t1318920074
+s12096
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o
+t1318920074
+s17484
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o
+t1318920074
+s41848
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o
+t1318920075
+s54420
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o
+t1318920075
+s12112
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o
+t1318920075
+s16184
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o
+t1318920076
+s49524
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o
+t1318920076
+s22628
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o
+t1318920076
+s60332
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o
+t1318920074
+s12484
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/Three20Network.LinkFileList
+c000000004E9D1F87000000000000085A
+t1318920071
+s2138
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/libThree20Network.a
+t1318920076
+s304760
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+c000000004E9D1F870000000000000026
+t1318920071
+s38
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTGlobalNetwork.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTModel.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTRequestLoader.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLCache.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLDataResponse.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLImageResponse.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequest.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestModel.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestQueue.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTUserInfo.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/Three20Network.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/libThree20Network.a
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/Three20Network.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/libThree20Network.a
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTGlobalNetwork.h
+c000000004E9581CA000000000000057D
+t1318420938
+s1405
+i<Foundation/Foundation.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTModel.h
+c000000004E9581CA0000000000000CEB
+t1318420938
+s3307
+i<Foundation/Foundation.h>
+i"Three20Network/TTURLRequestCachePolicy.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTModelDelegate.h
+c000000004E9581CA00000000000008A8
+t1318420938
+s2216
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTRequestLoader.h
+c000000004E9581CA0000000000000F9A
+t1318420938
+s3994
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLCache.h
+c000000004E9581CA00000000000018EA
+t1318420938
+s6378
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLDataResponse.h
+c000000004E9581CA0000000000000363
+t1318420938
+s867
+i"Three20Network/TTURLResponse.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLImageResponse.h
+c000000004E9581CA0000000000000434
+t1318420938
+s1076
+i"Three20Network/TTURLResponse.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequest.h
+c000000004E9581CA0000000000001A70
+t1318420938
+s6768
+i<Foundation/Foundation.h>
+i"Three20Network/TTURLRequestCachePolicy.h"
+i"Three20Core/TTCorePreprocessorMacros.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestCachePolicy.h
+c000000004E9581CA00000000000004CF
+t1318420938
+s1231
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestDelegate.h
+c000000004E9581CA00000000000006C3
+t1318420938
+s1731
+i<Foundation/Foundation.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestModel.h
+c000000004E9581CA00000000000006A1
+t1318420938
+s1697
+i"Three20Network/TTModel.h"
+i"Three20Network/TTURLRequestDelegate.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestQueue.h
+c000000004E9581CA0000000000000DAC
+t1318420938
+s3500
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestQueueInternal.h
+c000000004E9581CA0000000000000556
+t1318420938
+s1366
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLResponse.h
+c000000004E9581CA000000000000064F
+t1318420938
+s1615
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTUserInfo.h
+c000000004E9581CA0000000000000673
+t1318420938
+s1651
+i<Foundation/Foundation.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/Three20Network.h
+c000000004E9581CA0000000000000563
+t1318420938
+s1379
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/Three20Network_Prefix.pch
+c000000004E9581CA00000000000000CE
+t1318420938
+s206
+i"../../common/Xcode324iOS41Fix.pch"
+i<Foundation/Foundation.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m
+c000000004E9581CA0000000000000695
+t1318420938
+s1685
+i"Three20Network/TTGlobalNetwork.h"
+i"Three20Core/TTDebug.h"
+i<UIKit/UIKit.h>
+i<pthread.h>
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m
+c000000004E9581CA0000000000001522
+t1318420938
+s5410
+i"Three20Network/TTModel.h"
+i"Three20Core/TTGlobalCore.h"
+i"Three20Core/TTCorePreprocessorMacros.h"
+i"Three20Core/NSArrayAdditions.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m
+c000000004E9581CA0000000000003721
+t1318420938
+s14113
+i"Three20Network/private/TTRequestLoader.h"
+i"Three20Network/TTGlobalNetwork.h"
+i"Three20Network/TTURLRequest.h"
+i"Three20Network/TTURLRequestDelegate.h"
+i"Three20Network/TTURLRequestQueue.h"
+i"Three20Network/TTURLResponse.h"
+i"Three20Network/private/TTURLRequestQueueInternal.h"
+i"Three20Core/NSObjectAdditions.h"
+i"Three20Core/TTDebug.h"
+i"Three20Core/TTDebugFlags.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m
+c000000004E9581CA0000000000005D38
+t1318420938
+s23864
+i"Three20Network/TTURLCache.h"
+i"Three20Network/TTGlobalNetwork.h"
+i"Three20Core/TTCorePreprocessorMacros.h"
+i"Three20Core/TTGlobalCorePaths.h"
+i"Three20Core/TTDebug.h"
+i"Three20Core/TTDebugFlags.h"
+i"Three20Core/NSStringAdditions.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m
+c000000004E9581CA0000000000000768
+t1318420938
+s1896
+i"Three20Network/TTURLDataResponse.h"
+i"Three20Core/TTCorePreprocessorMacros.h"
+i"Three20Core/TTDebug.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m
+c000000004E9581CA0000000000000CA8
+t1318420938
+s3240
+i"Three20Network/TTURLImageResponse.h"
+i"Three20Network/TTURLRequest.h"
+i"Three20Network/TTURLCache.h"
+i"Three20Core/TTDebug.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m
+c000000004E9581CA0000000000002DFA
+t1318420938
+s11770
+i"Three20Network/TTURLRequest.h"
+i"Three20Network/TTGlobalNetwork.h"
+i"Three20Network/TTURLResponse.h"
+i"Three20Network/TTURLRequestQueue.h"
+i"Three20Core/TTGlobalCore.h"
+i"Three20Core/TTDebug.h"
+i"Three20Core/TTDebugFlags.h"
+i"Three20Core/NSStringAdditions.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m
+c000000004E9581CA000000000000128D
+t1318420938
+s4749
+i"Three20Network/TTURLRequestModel.h"
+i"Three20Network/TTURLRequest.h"
+i"Three20Network/TTURLRequestQueue.h"
+i"Three20Network/TTURLCache.h"
+i"Three20Core/TTCorePreprocessorMacros.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m
+c000000004E9581CA0000000000005999
+t1318420938
+s22937
+i"Three20Network/TTURLRequestQueue.h"
+i"Three20Network/TTGlobalNetwork.h"
+i"Three20Network/TTURLRequest.h"
+i"Three20Network/TTURLRequestDelegate.h"
+i"Three20Network/TTUserInfo.h"
+i"Three20Network/TTURLResponse.h"
+i"Three20Network/TTURLCache.h"
+i"Three20Network/private/TTRequestLoader.h"
+i"Three20Core/TTGlobalCore.h"
+i"Three20Core/TTGlobalCorePaths.h"
+i"Three20Core/TTDebugFlags.h"
+i"Three20Core/TTDebug.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m
+c000000004E9581CA0000000000000951
+t1318420938
+s2385
+i"Three20Network/TTUserInfo.h"
+i"Three20Core/TTCorePreprocessorMacros.h"
+
+N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/common/Xcode324iOS41Fix.pch
+c000000004E9581CB0000000000000236
+t1318420939
+s566
+i<TargetConditionals.h>
+
+N/var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-bqyuvhtukzazdqhcpfggpykjkfry/Three20Network_Prefix.pch.gch
+t1318488033
+s6769444
+
+N/var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch.gch
+t1318488679
+s7400228
+
+N/var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch.gch
+t1318488677
+s6941476
+
+N/var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-fcymxxtccfmmwhctdiowvvqnvyxx/Three20Network_Prefix.pch.gch
+t1318488035
+s7236388
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies340704746#340704746#0(0"0(0#1#0"8665536352#0"0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTGlobalNetwork.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612871.320853
+e340612871.575230
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTGlobalNetwork.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m340612871#340612871#0(0"0(0#0#132"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m8621639232#3099"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTGlobalNetwork.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612871.665817
+e340612871.764077
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTModel.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m340612871#340612871#0(0"0(0#0#124"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m8700258432#3083"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTModel.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTRequestLoader.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612871.767215
+e340612872.271928
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTRequestLoader.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m340612871#340612872#0(0"0(0#0#132"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m8697481376#3099"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTRequestLoader.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLCache.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612872.272155
+e340612872.753518
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLCache.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m340612872#340612872#0(0"0(0#0#127"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m8613654720#3089"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLCache.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLDataResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612872.753649
+e340612872.918185
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLDataResponse.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m340612872#340612872#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m8641452800#3103"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLDataResponse.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLImageResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612872.918322
+e340612873.159097
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLImageResponse.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m340612872#340612873#0(0"0(0#0#135"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m8613889536#3105"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLImageResponse.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequest.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612873.159239
+e340612873.549562
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequest.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@137"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m340612873#340612873#0(0"0(0#0#129"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m8648802240#3093"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequest.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612873.549716
+e340612873.786940
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestModel.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m340612873#340612873#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m8633391776#3103"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestModel.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestQueue.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612873.787214
+e340612874.272926
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestQueue.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m340612873#340612874#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m8708354304#3103"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestQueue.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTUserInfo.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s340612871.575623
+e340612871.665676
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTUserInfo.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m340612871#340612871#0(0"0(0#0#127"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m8697771424#3089"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv6 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/TTUserInfo.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612874.286774
+e340612874.462371
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m340612874#340612874#0(0"0(0#0#132"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m8628504192#3099"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612874.552005
+e340612874.657094
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@132"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m340612874#340612874#0(0"0(0#0#124"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m8624280992#3083"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612874.657269
+e340612875.001659
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m340612874#340612875#0(0"0(0#0#132"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m8696756608#3099"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612875.001799
+e340612875.427118
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m340612875#340612875#0(0"0(0#0#127"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m8708073856#3089"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612875.427405
+e340612875.638982
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m340612875#340612875#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m8614490240#3103"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612875.639125
+e340612875.818503
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@143"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m340612875#340612875#0(0"0(0#0#135"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m8637393216#3105"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612875.818643
+e340612876.217580
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@137"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m340612875#340612876#0(0"0(0#0#129"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m8628112384#3093"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612876.217718
+e340612876.434501
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m340612876#340612876#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m8638647360#3103"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612876.434640
+e340612876.885817
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@142"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m340612876#340612876#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m8705393696#3103"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o0#
+
+CCompileC ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s340612874.462534
+e340612874.551870
+r1
+xCompileC
+x../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@135"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m340612874#340612874#0(0"0(0#0#127"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m8646463520#3089"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -F/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include -I/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources/armv7 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o0#
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTGlobalNetwork.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTRequestLoader.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLCache.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLDataResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLImageResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequest.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTURLRequestQueue.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/TTUserInfo.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTGlobalNetwork.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTGlobalNetwork.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTModel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTRequestLoader.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTRequestLoader.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLCache.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLCache.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLDataResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLDataResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLImageResponse.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLImageResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequest.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestModel.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestModel.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTURLRequestQueue.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTURLRequestQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC ../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/TTUserInfo.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Sources/TTUserInfo.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTGlobalNetwork.h Headers/TTGlobalNetwork.h
+s340612871.166459
+e340612871.219091
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTGlobalNetwork.h
+xHeaders/TTGlobalNetwork.h
+lSLF07#2@30"Copy Headers/TTGlobalNetwork.h340612871#340612871#0(0"0(0#0#132"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTGlobalNetwork.h8626966560#702"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTGlobalNetwork.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModel.h Headers/TTModel.h
+s340612871.174953
+e340612871.219410
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModel.h
+xHeaders/TTModel.h
+lSLF07#2@22"Copy Headers/TTModel.h340612871#340612871#0(0"0(0#0#124"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTModel.h8626113600#694"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTModel.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h Headers/TTModelDelegate.h
+s340612871.180540
+e340612871.219567
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTModelDelegate.h
+xHeaders/TTModelDelegate.h
+lSLF07#2@30"Copy Headers/TTModelDelegate.h340612871#340612871#0(0"0(0#0#132"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTModelDelegate.h8624874592#702"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTModelDelegate.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h Headers/TTURLCache.h
+s340612871.189560
+e340612871.219883
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLCache.h
+xHeaders/TTURLCache.h
+lSLF07#2@25"Copy Headers/TTURLCache.h340612871#340612871#0(0"0(0#0#127"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLCache.h8623190880#697"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLCache.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLDataResponse.h Headers/TTURLDataResponse.h
+s340612871.198107
+e340612871.220045
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLDataResponse.h
+xHeaders/TTURLDataResponse.h
+lSLF07#2@32"Copy Headers/TTURLDataResponse.h340612871#340612871#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLDataResponse.h8622387776#704"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLDataResponse.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLImageResponse.h Headers/TTURLImageResponse.h
+s340612871.211578
+e340612871.259963
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLImageResponse.h
+xHeaders/TTURLImageResponse.h
+lSLF07#2@33"Copy Headers/TTURLImageResponse.h340612871#340612871#0(0"0(0#0#135"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLImageResponse.h8620820224#705"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLImageResponse.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequest.h Headers/TTURLRequest.h
+s340612871.213839
+e340612871.260152
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequest.h
+xHeaders/TTURLRequest.h
+lSLF07#2@27"Copy Headers/TTURLRequest.h340612871#340612871#0(0"0(0#0#129"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequest.h8617579264#699"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequest.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h Headers/TTURLRequestCachePolicy.h
+s340612871.220149
+e340612871.259098
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h
+xHeaders/TTURLRequestCachePolicy.h
+lSLF07#2@38"Copy Headers/TTURLRequestCachePolicy.h340612871#340612871#0(0"0(0#0#140"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestCachePolicy.h8614362624#710"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestCachePolicy.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h Headers/TTURLRequestDelegate.h
+s340612871.230371
+e340612871.259290
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h
+xHeaders/TTURLRequestDelegate.h
+lSLF07#2@35"Copy Headers/TTURLRequestDelegate.h340612871#340612871#0(0"0(0#0#137"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestDelegate.h8608331264#707"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestDelegate.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestModel.h Headers/TTURLRequestModel.h
+s340612871.234554
+e340612871.259458
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestModel.h
+xHeaders/TTURLRequestModel.h
+lSLF07#2@32"Copy Headers/TTURLRequestModel.h340612871#340612871#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestModel.h8644766336#704"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestModel.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestQueue.h Headers/TTURLRequestQueue.h
+s340612871.244391
+e340612871.259624
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLRequestQueue.h
+xHeaders/TTURLRequestQueue.h
+lSLF07#2@32"Copy Headers/TTURLRequestQueue.h340612871#340612871#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestQueue.h8632223392#704"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestQueue.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLResponse.h Headers/TTURLResponse.h
+s340612871.246265
+e340612871.259798
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTURLResponse.h
+xHeaders/TTURLResponse.h
+lSLF07#2@28"Copy Headers/TTURLResponse.h340612871#340612871#0(0"0(0#0#130"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLResponse.h8629030304#700"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLResponse.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTUserInfo.h Headers/TTUserInfo.h
+s340612871.168682
+e340612871.219253
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/TTUserInfo.h
+xHeaders/TTUserInfo.h
+lSLF07#2@25"Copy Headers/TTUserInfo.h340612871#340612871#0(0"0(0#0#127"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTUserInfo.h8626520544#697"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTUserInfo.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/Three20Network.h Headers/Three20Network.h
+s340612871.164051
+e340612871.218905
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/Three20Network.h
+xHeaders/Three20Network.h
+lSLF07#2@29"Copy Headers/Three20Network.h340612871#340612871#0(0"0(0#0#131"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/Three20Network.h8627768352#701"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/Three20Network.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTRequestLoader.h Headers/TTRequestLoader.h
+s340612871.182932
+e340612871.219726
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTRequestLoader.h
+xHeaders/TTRequestLoader.h
+lSLF07#2@30"Copy Headers/TTRequestLoader.h340612871#340612871#0(0"0(0#0#132"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTRequestLoader.h8624050560#710"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTRequestLoader.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/private0#
+
+CCpHeader ../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTURLRequestQueueInternal.h Headers/TTURLRequestQueueInternal.h
+s340612871.253988
+e340612871.266463
+r1
+xCpHeader
+x../../Build/Products/Debug-iphoneos/../three20/Three20Network/private/TTURLRequestQueueInternal.h
+xHeaders/TTURLRequestQueueInternal.h
+lSLF07#2@40"Copy Headers/TTURLRequestQueueInternal.h340612871#340612871#0(0"0(0#0#142"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestQueueInternal.h8627064896#720"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/TTURLRequestQueueInternal.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20/Three20Network/private0#
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTGlobalNetwork.h Headers/TTGlobalNetwork.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTModel.h Headers/TTModel.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTModelDelegate.h Headers/TTModelDelegate.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLCache.h Headers/TTURLCache.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLDataResponse.h Headers/TTURLDataResponse.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLImageResponse.h Headers/TTURLImageResponse.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequest.h Headers/TTURLRequest.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequestCachePolicy.h Headers/TTURLRequestCachePolicy.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequestDelegate.h Headers/TTURLRequestDelegate.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequestModel.h Headers/TTURLRequestModel.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLRequestQueue.h Headers/TTURLRequestQueue.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTURLResponse.h Headers/TTURLResponse.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/TTUserInfo.h Headers/TTUserInfo.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/Three20Network.h Headers/Three20Network.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/private/TTRequestLoader.h Headers/TTRequestLoader.h
+r0
+
+CCpHeader ../../Build/Products/Release-iphoneos/../three20/Three20Network/private/TTURLRequestQueueInternal.h Headers/TTURLRequestQueueInternal.h
+r0
+
+CCreateUniversalBinary /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a normal "armv6 armv7"
+s340612876.900812
+e340612876.973301
+r1
+xCreateUniversalBinary
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a
+xnormal
+xarmv6 armv7
+lSLF07#2@98"CreateUniversalBinary ../../Build/Products/Debug-iphoneos/libThree20Network.a normal "armv6 armv7"340612876#340612876#0(0"0(0#0#118"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/armv6 armv78712872512#915"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/libThree20Network.a /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/libThree20Network.a -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a0#
+
+CCreateUniversalBinary /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Release-iphoneos/libThree20Network.a normal "armv6 armv7"
+r0
+
+CLibtool /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/libThree20Network.a normal armv6
+s340612874.273054
+e340612874.286622
+r1
+xLibtool
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/libThree20Network.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@130"Libtool ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/libThree20Network.a normal armv6340612874#340612874#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8636665248#1142"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -L/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/lib -filelist /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/Three20Network.LinkFileList -ObjC -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/libThree20Network.a0#
+
+CLibtool /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/libThree20Network.a normal armv7
+s340612876.885934
+e340612876.900683
+r1
+xLibtool
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/libThree20Network.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@130"Libtool ../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/libThree20Network.a normal armv7340612876#340612876#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8650835200#1142"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -L/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos -L/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/lib -filelist /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/Three20Network.LinkFileList -ObjC -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/libThree20Network.a0#
+
+CLibtool /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv6/libThree20Network.a normal armv6
+r0
+
+CLibtool /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Objects-normal/armv7/libThree20Network.a normal armv7
+r0
+
+CPhaseScriptExecution "Protect Copied Headers" /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+s340704746.916712
+e340704746.994508
+r1
+xPhaseScriptExecution
+xProtect Copied Headers
+x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+lSLF07#2@48"Run custom shell script 'Protect Copied Headers'340704746#340704747#0(0"0(0#0#0"8690291968#24827"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv ACTION build    setenv ADDRESSBOOKUI_FX "-framework AddressBookUI"    setenv ADDRESSBOOK_FX "-framework AddressBook"    setenv AD_HOC_CODE_SIGNING_ALLOWED NO    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER santoshkhare    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS "armv6 armv7"    setenv ARCHS_STANDARD_32_64_BIT "armv6 armv7"    setenv ARCHS_STANDARD_32_BIT "armv6 armv7"    setenv ARCHS_UNIVERSAL_IPHONE_OS armv7    setenv AVFOUNDATION_FX "-framework AVFoundation"    setenv BASE_PRODUCT_NAME Three20Network    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products    setenv BUILD_LIBRARY_VERSION 1.0    setenv BUILD_ROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos    setenv CACHE_ROOT /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501    setenv CFNETWORK_FX "-framework CFNetwork"    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a    setenv CODE_SIGNING_ALLOWED NO    setenv CODE_SIGNING_REQUIRED YES    setenv CODE_SIGN_CONTEXT_CLASS XCiPhoneOSCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos    setenv CONFIGURATION_TEMP_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv COREDATA_FX "-framework CoreData"    setenv COREFOUNDATION_FX "-framework CoreFoundation"    setenv COREGRAPHICS_FX "-framework CoreGraphics"    setenv CORELOCATION_FX "-framework CoreLocation"    setenv CP /bin/cp    setenv CURRENT_ARCH armv7    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Three20Network.dst    setenv DWARF_DSYM_FILE_NAME libThree20Network.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos    setenv EFFECTIVE_PLATFORM_NAME -iphoneos    setenv EMBEDDED_PROFILE_NAME embedded.mobileprovision    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv ENTITLEMENTS_REQUIRED YES    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libThree20Network.a    setenv EXECUTABLE_PATH libThree20Network.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv EXTTHREE20CSSSTYLE_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libextThree20CSSStyle.a\""    setenv EXTTHREE20JSONSBJSON_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libextThree20JSON+SBJSON.a\""    setenv EXTTHREE20JSONYAJL_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libextThree20JSON+YAJL.a\""    setenv EXTTHREE20XML_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libextThree20XML.a\""    setenv FILE_LIST /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/FixedFiles    setenv FOUNDATION_FX "-framework Foundation"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos\" \"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Developer/Library/Frameworks\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libThree20Network.a    setenv GAMEKIT_FX "-framework GameKit"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Headers/Three20Network_Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS DEBUG    setenv GCC_THUMB_SUPPORT YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_MISSING_NEWLINE YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_CHECK_SWITCH_STATEMENTS NO    setenv GCC_WARN_EFFECTIVE_CPLUSPLUS_VIOLATIONS YES    setenv GCC_WARN_SHADOW YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_LABEL YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADERS_FOLDER_PATH /../three20/    setenv HEADER_SEARCH_PATHS "/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/include /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/include /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/../three20"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/Three20Network.dst/usr/local/lib    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER santoshkhare    setenv INSTALL_PATH /usr/local/lib    setenv INSTALL_ROOT /tmp/Three20Network.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Three20Network-LinkMap-normal-armv7.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_armv6 /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv6/Three20Network.LinkFileList    setenv LINK_FILE_LIST_normal_armv7 /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal/armv7/Three20Network.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv MAPKIT_FX "-framework MapKit"    setenv MEDIAPLAYER_FX "-framework MediaPlayer"    setenv MESSAGEUI_FX "-framework MessageUI"    setenv MOBILECORESERVICES_FX "-framework MobileCoreServices"    setenv NATIVE_ARCH armv6    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ALLLOAD -all_load    setenv OBJC_LIB -lobjc    setenv OBJC_LIBRARY -ObjC    setenv OBJECT_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Objects-normal    setenv OBJROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build    setenv ONLY_ACTIVE_ARCH NO    setenv OPENGLES_FX "-framework OpenGLES"    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS -ObjC    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/santoshkhare/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneOS.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneOS.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneOS.platform    setenv PLATFORM_NAME iphoneos    setenv PLATFORM_PRODUCT_BUILD_VERSION 8F192    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /../three20/Three20Network/private    setenv PRODUCT_NAME Three20Network    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT Three20Network    setenv PROJECT_DERIVED_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/DerivedSources    setenv PROJECT_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv PROJECT_FILE_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/Three20Network.xcodeproj    setenv PROJECT_NAME Three20Network    setenv PROJECT_TEMP_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build    setenv PUBLIC_HEADERS_FOLDER_PATH /../three20/Three20Network    setenv QUARTZCORE_FX "-framework QuartzCore"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REPO_ROOT_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../..    setenv REZ_COLLECTOR_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos\" "    setenv ROOT_SOURCE_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../src    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk    setenv SDK_NAME iphoneos4.3    setenv SDK_PRODUCT_BUILD_VERSION 8F191m    setenv SECURITY_FX "-framework Security"    setenv SED /usr/bin/sed    setenv SENTESTINGKIT_FX "-framework SenTestingKit"    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv SRCROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STDLIB_HEADERS /usr/include    setenv STDLIB_LIBRARY /usr/lib    setenv STOREKIT_FX "-framework StoreKit"    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES 1,2    setenv SYMBOL_REPOSITORY_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/SymbolRepositories    setenv SYMROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products    setenv SYSTEMCONFIGURATION_FX "-framework SystemConfiguration"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Three20Network    setenv TARGET_BUILD_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos    setenv TARGET_NAME Three20Network    setenv TARGET_TEMP_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build    setenv TEMP_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build    setenv TEMP_FILES_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build    setenv TEMP_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build    setenv TEMP_ROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build    setenv THREE20CORE_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Core.a\""    setenv THREE20NETWORK_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Network.a\""    setenv THREE20STYLE_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20Style.a\""    setenv THREE20UICOMMON_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20UICommon.a\""    setenv THREE20UINAVIGATOR_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20UINavigator.a\""    setenv THREE20UI_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20UI.a\""    setenv THREE20_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Products/Debug-iphoneos/libThree20.a\""    setenv UID 501    setenv UIKIT_FX "-framework UIKit"    setenv UNSTRIPPED_PRODUCT NO    setenv USER santoshkhare    setenv USER_APPS_DIR /Users/santoshkhare/Applications    setenv USER_LIBRARY_DIR /Users/santoshkhare/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "armv6 armv7"    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER santoshkhare    setenv VERSION_INFO_FILE Three20Network_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Three20Network  PROJECT:Three20Network-\""    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Debug-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh0#
+
+CPhaseScriptExecution "Protect Copied Headers" /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Network/../../Build/Three20Network.build/Release-iphoneos/Three20Network.build/Script-6E645F091187AD0E00F08CB1.sh
+r0
+
+CProcessPCH /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-bqyuvhtukzazdqhcpfggpykjkfry/Three20Network_Prefix.pch.gch Headers/Three20Network_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-cetguzlurmgqwpgzgsrhtpznzioc/Three20Network_Prefix.pch.gch Headers/Three20Network_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-dwukxjepipinauecwrzwbwtppbjw/Three20Network_Prefix.pch.gch Headers/Three20Network_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Network_Prefix-fcymxxtccfmmwhctdiowvvqnvyxx/Three20Network_Prefix.pch.gch Headers/Three20Network_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+

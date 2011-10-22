@@ -1,0 +1,100 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeTarget = BEF31F390F352DF5000DE5D2 /* extThree20JSON+SBJSON */;
+		codeSenseManager = BB9DADDC1446BBEF00D16F7E /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 340179922;
+			PBXWorkspaceStateSaveDate = 340179922;
+		};
+		sourceControlManager = BB9DADDB1446BBEF00D16F7E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	66C34B9B1266200500489E9A /* extThree20JSON+SBJSON-Xcode3.2.5 */ = {
+		activeExec = 0;
+	};
+	66C34BB91266200600489E9A /* extThree20JSON+YAJL-Xcode3.2.5 */ = {
+		activeExec = 0;
+	};
+	66C34BE51266200600489E9A /* extThree20JSONUnitTests+SBJSON-Xcode3.2.5 */ = {
+		activeExec = 0;
+	};
+	66D90EF112662330009AFDE6 /* extThree20JSON+SBJSON-Xcode3.2.2 */ = {
+		activeExec = 0;
+	};
+	66D90F0F12662330009AFDE6 /* extThree20JSON+YAJL-Xcode3.2.2 */ = {
+		activeExec = 0;
+	};
+	66D90F3B12662330009AFDE6 /* extThree20JSONUnitTests+SBJSON-Xcode3.2.2 */ = {
+		activeExec = 0;
+	};
+	6E645BA31187751200F08CB1 /* extThree20JSON+YAJL */ = {
+		activeExec = 0;
+	};
+	BB9DADDB1446BBEF00D16F7E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	BB9DADDC1446BBEF00D16F7E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	BEF31F390F352DF5000DE5D2 /* extThree20JSON+SBJSON */ = {
+		activeExec = 0;
+	};
+	EB9E6C6110B6A8F800DE563C /* extThree20JSONUnitTests+SBJSON */ = {
+		activeExec = 0;
+	};
+}
