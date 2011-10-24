@@ -20,11 +20,15 @@
 //#import <mach/mach_host.h>
 
 	// saran 13 Oct
+<<<<<<< Updated upstream
 //<<<<<<< Updated upstream
 	// 2nd line
 //=======
 // here vaibhav added new line but till now i have'nt pull the app
 //>>>>>>> Stashed changes
+=======
+// here vaibhav added new line but till now i have'nt pull the app
+>>>>>>> Stashed changes
 
 BOOL flg4autoupdatebadge;
 NSInteger flglocationupdate=0;
