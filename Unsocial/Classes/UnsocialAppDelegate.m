@@ -20,7 +20,11 @@
 //#import <mach/mach_host.h>
 
 	// saran 13 Oct
+//<<<<<<< Updated upstream
+	// 2nd line
+//=======
 // here vaibhav added new line but till now i have'nt pull the app
+//>>>>>>> Stashed changes
 
 BOOL flg4autoupdatebadge;
 NSInteger flglocationupdate=0;
@@ -249,11 +253,11 @@ BOOL didAppEnterBackGround;
 		
 		gbllatitude = [NSString stringWithFormat:@"%+.6f",locationManager.location.coordinate.latitude];// oldLocation.coordinate.latitude];
 		//gbllatitude   = @"47.711411";//gbllongitude; //@"47.8779449"
-		//gbllatitude   = @"37.3318621";//gbllongitude; //@"47.8779449"
+		gbllatitude   = @"39.7912261"; // berlin, New Jersey // @"26.3306137";// Topaz CA //@"40.0201673";//<- Twain  CA// @"37.3318621";//gbllongitude; //@"47.8779449"
 		[gbllatitudeary addObject:gbllatitude];
 		gbllongitude = [NSString stringWithFormat:@"%+.6f",locationManager.location.coordinate.longitude];//oldLocation.coordinate.longitude];
 		//gbllongitude = @"-122.190647";//gbllatitude; // @"-122.1864364"
-		//gbllongitude = @"-122.0299369";//gbllatitude; // @"-122.1864364"
+		gbllongitude = @"-74.9290536"; // berlin, New Jersey // @"-98.1924822"; // Topaz CA // @"-121.0719031"; //<- Twain // @"-122.0299369";//gbllatitude; // @"-122.1864364"
 		[gbllongitudeary addObject:gbllongitude];
 		
 		
@@ -1351,10 +1355,12 @@ BOOL didAppEnterBackGround;
 		gbllatitude = [NSString stringWithFormat:@"%+.6f",locationManager.location.coordinate.latitude];// oldLocation.coordinate.latitude];
 		//gbllatitude   = @"47.711411";//gbllongitude; //@"47.8779449"
 		//gbllatitude   = @"37.3318621";//gbllongitude; //@"47.8779449"
+		gbllatitude   = @"39.7912261"; // berlin, New Jersey //@"26.3306137";// Topaz CA // @"40.0201673";//<- Twain
 		[gbllatitudeary addObject:gbllatitude];
 		gbllongitude = [NSString stringWithFormat:@"%+.6f",locationManager.location.coordinate.longitude];//oldLocation.coordinate.longitude];
 		//gbllongitude = @"-122.190647";//gbllatitude; // @"-122.1864364"
 		//gbllongitude = @"-122.0299369";//gbllatitude; // @"-122.1864364"
+		gbllongitude = @"-74.9290536"; // berlin, New Jersey // @"-98.1924822"; // Topaz CA //@"-121.0719031"; //<- Twain
 		[gbllongitudeary addObject:gbllongitude];
 		
 		
@@ -1526,6 +1532,7 @@ BOOL didAppEnterBackGround;
 	//gbllatitude = @"+28.565931"; // DELHI LOCATION
 	//gbllatitude   = @"37.7681339"; // sanfransisco for discovery beat
 	//gbllatitude   = @"47.6062095"; // seattle, wa for discovery beat
+	gbllatitude   = @"39.7912261"; // berlin, New Jersey //@"26.3306137";// Topaz CA //@"40.0201673";//<- Twain
 	[gbllatitudeary addObject:gbllatitude];
 	gbllongitude = [NSString stringWithFormat:@"%+.6f",locationManager.location.coordinate.longitude];//oldLocation.coordinate.longitude];
 	//gbllongitude = @"-122.190647";//gbllatitude; // @"-122.1864364"
@@ -1533,6 +1540,7 @@ BOOL didAppEnterBackGround;
 	//gbllongitude = @"+77.216813"; // DELHI LOCATION
 	//gbllongitude = @"-122.3939490"; // sanfransisco for discovery beat
 	//gbllongitude = @"-122.3320708"; // seattle, wa for discovery beat
+	gbllongitude = @"-74.9290536"; // berlin, New Jersey //@"-98.1924822"; // Topaz CA //@"-121.0719031"; //<- Twain
 	[gbllongitudeary addObject:gbllongitude];
 	
 	
@@ -1776,11 +1784,13 @@ BOOL didAppEnterBackGround;
 		gbllatitude = [NSString stringWithFormat:@"%+.6f",newLocation.coordinate.latitude];
 		//gbllatitude   = @"37.7681339"; // sanfransisco for discovery beat
 		//gbllatitude   = @"47.6062095"; // seattle, wa for discovery beat
+			gbllatitude   = @"39.7912261"; // berlin, New Jersey //@"26.3306137";// Topaz CA //@"40.0201673";//<- Twain
 		[gbllatitudeary addObject:gbllatitude];
 		
 		gbllongitude = [NSString stringWithFormat:@"%+.6f",newLocation.coordinate.longitude];
 		//gbllongitude = @"-122.3939490"; // sanfransisco for discovery beat
 		//gbllongitude = @"-122.3320708"; // seattle, wa for discovery beat
+			gbllongitude = @"-74.9290536"; // berlin, New Jersey //@"-98.1924822"; // Topaz CA //@"-121.0719031"; //<- Twain
 		[gbllongitudeary addObject:gbllongitude];
 		
 		//gbllongitude = @"-122.1864364";//gbllatitude; // @"-122.1864364"
@@ -2077,7 +2087,7 @@ BOOL didAppEnterBackGround;
 #define pragma mark set URL
 	//globalUrlString = @"http://icheena.no-ip.org";
 	//globalUrlString = @"http://rstrings.com/unsocial";
-	//globalUrlString = @"http://192.168.1.13/unsocial";
+	//globalUrlString = @"http://192.168.1.11/unsocial";
 	//globalUrlString = @"http://192.168.1.11/unsocialtest";
 	
 	// rackspace for production app

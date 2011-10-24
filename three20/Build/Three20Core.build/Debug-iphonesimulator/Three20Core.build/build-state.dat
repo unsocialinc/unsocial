@@ -1,826 +1,0 @@
-TThree20Core
-v7
-r0
-t340877788.382872
-cCheck dependencies
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTMarkupStripper.h Headers/TTMarkupStripper.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSArrayAdditions.h Headers/NSArrayAdditions.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDataAdditions.h Headers/NSDataAdditions.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDateAdditions.h Headers/NSDateAdditions.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSMutableArrayAdditions.h Headers/NSMutableArrayAdditions.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSMutableDictionaryAdditions.h Headers/NSMutableDictionaryAdditions.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSObjectAdditions.h Headers/NSObjectAdditions.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSStringAdditions.h Headers/NSStringAdditions.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h Headers/TTCorePreprocessorMacros.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebug.h Headers/TTDebug.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebugFlags.h Headers/TTDebugFlags.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCore.h Headers/TTGlobalCore.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreLocale.h Headers/TTGlobalCoreLocale.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCorePaths.h Headers/TTGlobalCorePaths.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Core.h Headers/Three20Core.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Core+Additions.h Headers/Three20Core+Additions.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreRects.h Headers/TTGlobalCoreRects.h
-cCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTEntityTables.h Headers/TTEntityTables.h
-cPhaseScriptExecution "Protect Copied Headers" /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Script-6E645EC91187AB0500F08CB1.sh
-cProcessPCH /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch.gch Headers/Three20Core_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCore.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCore.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreLocale.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreLocale.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCorePaths.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCorePaths.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSArrayAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSArrayAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDataAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDataAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDateAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDateAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableArrayAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableArrayAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSObjectAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSObjectAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSStringAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSStringAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTDebug.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTDebug.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTMarkupStripper.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTMarkupStripper.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableDictionaryAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableDictionaryAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreRects.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreRects.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTEntityTables.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTEntityTables.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLibtool /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20Core.a normal i386
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
-c000000004E8ACEF70000000000000110
-t1317719799
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004D54CFB80000000000001466
-t1297403832
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004D5615B40000000000000AA1
-t1297487284
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonDigest.h
-c000000004A11E8210000000000002407
-t1242687521
-s9223
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/TargetConditionals.h
-c000000004D4F7A2B00000000000031E9
-t1297054251
-s12777
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/objc/runtime.h
-c000000004D54CB4300000000000063AF
-t1297402691
-s25519
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/sysctl.h
-c000000004D54D0EB0000000000007D09
-t1297404139
-s32009
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/unistd.h
-c000000004D4F6E9A0000000000006662
-t1297051290
-s26210
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSArrayAdditions.h
-t1319088507
-s1928
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDataAdditions.h
-t1319088507
-s817
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDateAdditions.h
-t1319088507
-s2383
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSMutableArrayAdditions.h
-t1319088507
-s797
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSMutableDictionaryAdditions.h
-t1319088507
-s817
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSObjectAdditions.h
-t1319088507
-s1396
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSStringAdditions.h
-t1319088507
-s3047
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h
-t1319088507
-s2166
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebug.h
-t1319088507
-s3773
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebugFlags.h
-t1319088507
-s1238
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTEntityTables.h
-t1319088507
-s1248
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCore.h
-t1319088507
-s1510
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreLocale.h
-t1319088507
-s1389
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCorePaths.h
-t1319088507
-s1495
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreRects.h
-t1319088507
-s1312
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTMarkupStripper.h
-t1319088507
-s971
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Core+Additions.h
-t1319088507
-s952
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Core.h
-t1319088507
-s989
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20Core.a
-t1319088513
-s206672
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSArrayAdditions.o
-t1319088511
-s15584
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDataAdditions.o
-t1319088512
-s7672
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDateAdditions.o
-t1319088512
-s24988
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableArrayAdditions.o
-t1319088512
-s6736
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableDictionaryAdditions.o
-t1319088512
-s6876
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSObjectAdditions.o
-t1319088512
-s15016
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSStringAdditions.o
-t1319088512
-s18676
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTDebug.o
-t1319088512
-s10120
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTEntityTables.o
-t1319088513
-s39272
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCore.o
-t1319088511
-s12584
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreLocale.o
-t1319088511
-s14096
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCorePaths.o
-t1319088511
-s10660
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreRects.o
-t1319088513
-s7004
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTMarkupStripper.o
-t1319088513
-s14960
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/Three20Core.LinkFileList
-c000000004E9FB17B0000000000000BAE
-t1319088507
-s2990
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Script-6E645EC91187AB0500F08CB1.sh
-c000000004E9FB17B0000000000000026
-t1319088507
-s38
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSArrayAdditions.h
-c000000004E9581CA0000000000000788
-t1318420938
-s1928
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSDataAdditions.h
-c000000004E9581CA0000000000000331
-t1318420938
-s817
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSDateAdditions.h
-c000000004E9581CA000000000000094F
-t1318420938
-s2383
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSMutableArrayAdditions.h
-c000000004E9581CA000000000000031D
-t1318420938
-s797
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSMutableDictionaryAdditions.h
-c000000004E9581CA0000000000000331
-t1318420938
-s817
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSObjectAdditions.h
-c000000004E9581CA0000000000000574
-t1318420938
-s1396
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSStringAdditions.h
-c000000004E9581CA0000000000000BE7
-t1318420938
-s3047
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTCorePreprocessorMacros.h
-c000000004E9581CA0000000000000876
-t1318420938
-s2166
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTDebug.h
-c000000004E9581CA0000000000000EBD
-t1318420938
-s3773
-i<TargetConditionals.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTDebugFlags.h
-c000000004E9581CA00000000000004D6
-t1318420938
-s1238
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTEntityTables.h
-c000000004E9581CA00000000000004E0
-t1318420938
-s1248
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCore.h
-c000000004E9581CA00000000000005E6
-t1318420938
-s1510
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCoreLocale.h
-c000000004E9581CA000000000000056D
-t1318420938
-s1389
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCorePaths.h
-c000000004E9581CA00000000000005D7
-t1318420938
-s1495
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCoreRects.h
-c000000004E9581CA0000000000000520
-t1318420938
-s1312
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTMarkupStripper.h
-c000000004E9581CA00000000000003CB
-t1318420938
-s971
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core+Additions.h
-c000000004E9581CA00000000000003B8
-t1318420938
-s952
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core.h
-c000000004E9581CA00000000000003DD
-t1318420938
-s989
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core_Prefix.pch
-c000000004E9581CA00000000000000CE
-t1318420938
-s206
-i"../../common/Xcode324iOS41Fix.pch"
-i<Foundation/Foundation.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSArrayAdditions.m
-c000000004E9581CA0000000000001091
-t1318420938
-s4241
-i"Three20Core/NSArrayAdditions.h"
-i"Three20Core/NSObjectAdditions.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDataAdditions.m
-c000000004E9581CA000000000000061F
-t1318420938
-s1567
-i"Three20Core/NSDataAdditions.h"
-i<CommonCrypto/CommonDigest.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDateAdditions.m
-c000000004E9581CA0000000000002235
-t1318420938
-s8757
-i"Three20Core/NSDateAdditions.h"
-i"Three20Core/TTCorePreprocessorMacros.h"
-i"Three20Core/TTGlobalCoreLocale.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableArrayAdditions.m
-c000000004E9581CA0000000000000500
-t1318420938
-s1280
-i"Three20Core/NSMutableArrayAdditions.h"
-i"Three20Core/TTGlobalCore.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableDictionaryAdditions.m
-c000000004E9581CA000000000000052B
-t1318420938
-s1323
-i"Three20Core/NSMutableDictionaryAdditions.h"
-i"Three20Core/TTGlobalCore.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSObjectAdditions.m
-c000000004E9581CA0000000000001477
-t1318420938
-s5239
-i"Three20Core/NSObjectAdditions.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSStringAdditions.m
-c000000004E9581CA0000000000001660
-t1318420938
-s5728
-i"Three20Core/NSStringAdditions.h"
-i"Three20Core/TTMarkupStripper.h"
-i"Three20Core/NSDataAdditions.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTDebug.m
-c000000004E9581CA000000000000060A
-t1318420938
-s1546
-i"Three20Core/TTDebug.h"
-i<unistd.h>
-i<sys/sysctl.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTEntityTables.m
-c000000004E9581CA0000000000002BAB
-t1318420938
-s11179
-i"Three20Core/TTEntityTables.h"
-i"Three20Core/TTCorePreprocessorMacros.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCore.m
-c000000004E9581CA0000000000000A8F
-t1318420938
-s2703
-i"Three20Core/TTGlobalCore.h"
-i<objc/runtime.h>
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreLocale.m
-c000000004E9581CA0000000000000AC5
-t1318420938
-s2757
-i"Three20Core/TTGlobalCoreLocale.h"
-i"Three20Core/TTDebug.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCorePaths.m
-c000000004E9581CA00000000000008B6
-t1318420938
-s2230
-i"Three20Core/TTGlobalCorePaths.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreRects.m
-c000000004E9581CA00000000000005D8
-t1318420938
-s1496
-i"Three20Core/TTGlobalCoreRects.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTMarkupStripper.m
-c000000004E9581CA0000000000000B42
-t1318420938
-s2882
-i"Three20Core/TTMarkupStripper.h"
-i"Three20Core/TTCorePreprocessorMacros.h"
-i"Three20Core/TTEntityTables.h"
-
-N/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/common/Xcode324iOS41Fix.pch
-c000000004E9581CB0000000000000236
-t1318420939
-s566
-i<TargetConditionals.h>
-
-N/var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch.gch
-t1319088510
-s10850160
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies340877787#340877788#0(0"0(0#1#0"8618871200#0"0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSArrayAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSArrayAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781311.672399
-e340781311.928178
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSArrayAdditions.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSArrayAdditions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@138"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSArrayAdditions.m340781311#340781311#0(0"0(0#0#130"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSArrayAdditions.m8639380128#3230"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSArrayAdditions.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSArrayAdditions.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDataAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDataAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781311.928371
-e340781312.081656
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDataAdditions.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDataAdditions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@137"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDataAdditions.m340781311#340781312#0(0"0(0#0#129"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDataAdditions.m8631284576#3228"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDataAdditions.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDataAdditions.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDateAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDateAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781312.081801
-e340781312.240718
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDateAdditions.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDateAdditions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@137"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDateAdditions.m340781312#340781312#0(0"0(0#0#129"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDateAdditions.m8635626272#3228"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSDateAdditions.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSDateAdditions.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableArrayAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableArrayAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781312.240851
-e340781312.317477
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableArrayAdditions.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableArrayAdditions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@145"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableArrayAdditions.m340781312#340781312#0(0"0(0#0#137"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableArrayAdditions.m8640127232#3244"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableArrayAdditions.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableArrayAdditions.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableDictionaryAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableDictionaryAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781312.809473
-e340781312.902589
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableDictionaryAdditions.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableDictionaryAdditions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@150"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableDictionaryAdditions.m340781312#340781312#0(0"0(0#0#142"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableDictionaryAdditions.m8634633312#3254"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSMutableDictionaryAdditions.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSMutableDictionaryAdditions.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSObjectAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSObjectAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781312.317621
-e340781312.417874
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSObjectAdditions.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSObjectAdditions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@139"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSObjectAdditions.m340781312#340781312#0(0"0(0#0#131"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSObjectAdditions.m8638415872#3232"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSObjectAdditions.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSObjectAdditions.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSStringAdditions.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSStringAdditions.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781312.418009
-e340781312.503091
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSStringAdditions.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSStringAdditions.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@139"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSStringAdditions.m340781312#340781312#0(0"0(0#0#131"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSStringAdditions.m8640152000#3232"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/NSStringAdditions.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/NSStringAdditions.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTDebug.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTDebug.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781312.503316
-e340781312.809333
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTDebug.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTDebug.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@129"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTDebug.m340781312#340781312#0(0"0(0#0#121"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTDebug.m8638722976#3212"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTDebug.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTDebug.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTEntityTables.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTEntityTables.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781313.323093
-e340781313.679352
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTEntityTables.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTEntityTables.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@136"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTEntityTables.m340781313#340781313#0(0"0(0#0#128"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTEntityTables.m8626315648#3226"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTEntityTables.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTEntityTables.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCore.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCore.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781310.969185
-e340781311.448041
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCore.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCore.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@134"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCore.m340781310#340781311#0(0"0(0#0#126"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCore.m8633851424#3222"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCore.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCore.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreLocale.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreLocale.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781311.448184
-e340781311.547446
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreLocale.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreLocale.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@140"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreLocale.m340781311#340781311#0(0"0(0#0#132"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreLocale.m8613302592#3234"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreLocale.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreLocale.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCorePaths.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCorePaths.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781311.547587
-e340781311.672269
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCorePaths.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCorePaths.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@139"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCorePaths.m340781311#340781311#0(0"0(0#0#131"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCorePaths.m8656554592#3232"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCorePaths.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCorePaths.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreRects.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreRects.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781312.902746
-e340781313.662306
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreRects.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreRects.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@139"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreRects.m340781312#340781313#0(0"0(0#0#131"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreRects.m8638774560#3232"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTGlobalCoreRects.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTGlobalCoreRects.o0#
-
-CCompileC ../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTMarkupStripper.o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTMarkupStripper.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781312.504758
-e340781313.322945
-r1
-xCompileC
-x../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTMarkupStripper.o
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTMarkupStripper.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@138"Compile /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTMarkupStripper.m340781312#340781313#0(0"0(0#0#130"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTMarkupStripper.m8635069504#3230"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -include /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Sources/TTMarkupStripper.m -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/TTMarkupStripper.o0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSArrayAdditions.h Headers/NSArrayAdditions.h
-s340781307.719703
-e340781307.898458
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSArrayAdditions.h
-xHeaders/NSArrayAdditions.h
-lSLF07#2@31"Copy Headers/NSArrayAdditions.h340781307#340781307#0(0"0(0#0#130"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSArrayAdditions.h8656533696#705"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSArrayAdditions.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDataAdditions.h Headers/NSDataAdditions.h
-s340781307.720761
-e340781307.916038
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDataAdditions.h
-xHeaders/NSDataAdditions.h
-lSLF07#2@30"Copy Headers/NSDataAdditions.h340781307#340781307#0(0"0(0#0#129"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSDataAdditions.h8647515136#704"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSDataAdditions.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDateAdditions.h Headers/NSDateAdditions.h
-s340781307.721770
-e340781307.895503
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSDateAdditions.h
-xHeaders/NSDateAdditions.h
-lSLF07#2@30"Copy Headers/NSDateAdditions.h340781307#340781307#0(0"0(0#0#129"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSDateAdditions.h8646830720#704"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSDateAdditions.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSMutableArrayAdditions.h Headers/NSMutableArrayAdditions.h
-s340781307.723815
-e340781307.905118
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSMutableArrayAdditions.h
-xHeaders/NSMutableArrayAdditions.h
-lSLF07#2@38"Copy Headers/NSMutableArrayAdditions.h340781307#340781307#0(0"0(0#0#137"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSMutableArrayAdditions.h8629233696#712"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSMutableArrayAdditions.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSMutableDictionaryAdditions.h Headers/NSMutableDictionaryAdditions.h
-s340781307.725893
-e340781307.919663
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSMutableDictionaryAdditions.h
-xHeaders/NSMutableDictionaryAdditions.h
-lSLF07#2@43"Copy Headers/NSMutableDictionaryAdditions.h340781307#340781307#0(0"0(0#0#142"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSMutableDictionaryAdditions.h8628426976#717"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSMutableDictionaryAdditions.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSObjectAdditions.h Headers/NSObjectAdditions.h
-s340781307.728147
-e340781307.919857
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSObjectAdditions.h
-xHeaders/NSObjectAdditions.h
-lSLF07#2@32"Copy Headers/NSObjectAdditions.h340781307#340781307#0(0"0(0#0#131"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSObjectAdditions.h8624627520#706"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSObjectAdditions.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSStringAdditions.h Headers/NSStringAdditions.h
-s340781307.730650
-e340781307.913288
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/NSStringAdditions.h
-xHeaders/NSStringAdditions.h
-lSLF07#2@32"Copy Headers/NSStringAdditions.h340781307#340781307#0(0"0(0#0#131"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSStringAdditions.h8619878592#706"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/NSStringAdditions.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h Headers/TTCorePreprocessorMacros.h
-s340781307.732837
-e340781307.920029
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTCorePreprocessorMacros.h
-xHeaders/TTCorePreprocessorMacros.h
-lSLF07#2@39"Copy Headers/TTCorePreprocessorMacros.h340781307#340781307#0(0"0(0#0#138"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTCorePreprocessorMacros.h8618304128#713"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTCorePreprocessorMacros.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebug.h Headers/TTDebug.h
-s340781307.735296
-e340781307.920193
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebug.h
-xHeaders/TTDebug.h
-lSLF07#2@22"Copy Headers/TTDebug.h340781307#340781307#0(0"0(0#0#121"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTDebug.h8614183840#696"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTDebug.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebugFlags.h Headers/TTDebugFlags.h
-s340781307.895641
-e340781307.938342
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTDebugFlags.h
-xHeaders/TTDebugFlags.h
-lSLF07#2@27"Copy Headers/TTDebugFlags.h340781307#340781307#0(0"0(0#0#126"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTDebugFlags.h8657037184#701"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTDebugFlags.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTEntityTables.h Headers/TTEntityTables.h
-s340781307.922529
-e340781307.938788
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTEntityTables.h
-xHeaders/TTEntityTables.h
-lSLF07#2@29"Copy Headers/TTEntityTables.h340781307#340781307#0(0"0(0#0#128"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTEntityTables.h8657659936#703"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTEntityTables.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCore.h Headers/TTGlobalCore.h
-s340781307.898575
-e340781307.934415
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCore.h
-xHeaders/TTGlobalCore.h
-lSLF07#2@27"Copy Headers/TTGlobalCore.h340781307#340781307#0(0"0(0#0#126"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCore.h8651347200#701"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCore.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreLocale.h Headers/TTGlobalCoreLocale.h
-s340781307.902120
-e340781307.934213
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreLocale.h
-xHeaders/TTGlobalCoreLocale.h
-lSLF07#2@33"Copy Headers/TTGlobalCoreLocale.h340781307#340781307#0(0"0(0#0#132"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCoreLocale.h8657149088#707"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCoreLocale.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCorePaths.h Headers/TTGlobalCorePaths.h
-s340781307.905228
-e340781307.937159
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCorePaths.h
-xHeaders/TTGlobalCorePaths.h
-lSLF07#2@32"Copy Headers/TTGlobalCorePaths.h340781307#340781307#0(0"0(0#0#131"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCorePaths.h8622868800#706"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCorePaths.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreRects.h Headers/TTGlobalCoreRects.h
-s340781307.920295
-e340781307.938093
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTGlobalCoreRects.h
-xHeaders/TTGlobalCoreRects.h
-lSLF07#2@32"Copy Headers/TTGlobalCoreRects.h340781307#340781307#0(0"0(0#0#131"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCoreRects.h8657421056#706"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTGlobalCoreRects.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTMarkupStripper.h Headers/TTMarkupStripper.h
-s340781307.552998
-e340781307.902004
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/TTMarkupStripper.h
-xHeaders/TTMarkupStripper.h
-lSLF07#2@31"Copy Headers/TTMarkupStripper.h340781307#340781307#0(0"0(0#0#130"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTMarkupStripper.h3399705550029550592#705"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/TTMarkupStripper.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Core+Additions.h Headers/Three20Core+Additions.h
-s340781307.916157
-e340781307.937885
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Core+Additions.h
-xHeaders/Three20Core+Additions.h
-lSLF07#2@36"Copy Headers/Three20Core+Additions.h340781307#340781307#0(0"0(0#0#135"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core+Additions.h8626620864#710"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core+Additions.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CCpHeader ../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Core.h Headers/Three20Core.h
-s340781307.913417
-e340781307.935001
-r1
-xCpHeader
-x../../Build/Products/Debug-iphonesimulator/../three20/Three20Core/Three20Core.h
-xHeaders/Three20Core.h
-lSLF07#2@26"Copy Headers/Three20Core.h340781307#340781307#0(0"0(0#0#125"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core.h8628471808#700"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core.h /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20/Three20Core0#
-
-CLibtool /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20Core.a normal i386
-s340781313.679475
-e340781313.978478
-r1
-xLibtool
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20Core.a
-xnormal
-xi386
-o/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
-lSLF07#2@79"Libtool ../../Build/Products/Debug-iphonesimulator/libThree20Core.a normal i386340781313#340781313#0(136"/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8628936192#1124"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/libtool -static -arch_only i386 -syslibroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -L/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib -filelist /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/Three20Core.LinkFileList -ObjC -o /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20Core.a0#
-
-CPhaseScriptExecution "Protect Copied Headers" /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Script-6E645EC91187AB0500F08CB1.sh
-s340877788.190171
-e340877788.380623
-r1
-xPhaseScriptExecution
-xProtect Copied Headers
-x/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Script-6E645EC91187AB0500F08CB1.sh
-lSLF07#2@48"Run custom shell script 'Protect Copied Headers'340877788#340877788#0(0"0(0#0#0"8645958656#24473"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv ACTION build    setenv ADDRESSBOOKUI_FX "-framework AddressBookUI"    setenv ADDRESSBOOK_FX "-framework AddressBook"    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER santoshkhare    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv AVFOUNDATION_FX "-framework AVFoundation"    setenv BASE_PRODUCT_NAME Three20Core    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products    setenv BUILD_LIBRARY_VERSION 1.0    setenv BUILD_ROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501    setenv CFNETWORK_FX "-framework CFNetwork"    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20Core.a    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv COREDATA_FX "-framework CoreData"    setenv COREFOUNDATION_FX "-framework CoreFoundation"    setenv COREGRAPHICS_FX "-framework CoreGraphics"    setenv CORELOCATION_FX "-framework CoreLocation"    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Three20Core.dst    setenv DWARF_DSYM_FILE_NAME libThree20Core.a.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLE_EXTENSION a    setenv EXECUTABLE_NAME libThree20Core.a    setenv EXECUTABLE_PATH libThree20Core.a    setenv EXECUTABLE_PREFIX lib    setenv EXECUTABLE_SUFFIX .a    setenv EXTTHREE20CSSSTYLE_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libextThree20CSSStyle.a\""    setenv EXTTHREE20JSONSBJSON_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libextThree20JSON+SBJSON.a\""    setenv EXTTHREE20JSONYAJL_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libextThree20JSON+YAJL.a\""    setenv EXTTHREE20XML_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libextThree20XML.a\""    setenv FILE_LIST /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/FixedFiles    setenv FOUNDATION_FX "-framework Foundation"    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator\" \"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME libThree20Core.a    setenv GAMEKIT_FX "-framework GameKit"    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_SYMBOL_SEPARATION NO    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core_Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS DEBUG    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_MISSING_NEWLINE YES    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_CHECK_SWITCH_STATEMENTS NO    setenv GCC_WARN_EFFECTIVE_CPLUSPLUS_VIOLATIONS YES    setenv GCC_WARN_SHADOW YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_LABEL YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE NO    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADERS_FOLDER_PATH /../three20/    setenv HEADER_SEARCH_PATHS "/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PREPROCESS NO    setenv INSTALL_DIR /tmp/Three20Core.dst/usr/local/lib    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER santoshkhare    setenv INSTALL_PATH /usr/local/lib    setenv INSTALL_ROOT /tmp/Three20Core.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal/i386/Three20Core.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE staticlib    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K549    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv MAPKIT_FX "-framework MapKit"    setenv MEDIAPLAYER_FX "-framework MediaPlayer"    setenv MESSAGEUI_FX "-framework MessageUI"    setenv MOBILECORESERVICES_FX "-framework MobileCoreServices"    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJC_ALLLOAD -all_load    setenv OBJC_LIB -lobjc    setenv OBJC_LIBRARY -ObjC    setenv OBJECT_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Objects-normal    setenv OBJROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build    setenv ONLY_ACTIVE_ARCH NO    setenv OPENGLES_FX "-framework OpenGLES"    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS -ObjC    setenv PACKAGE_TYPE com.apple.package-type.static-library    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/santoshkhare/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8F192    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40300    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH /../three20/Three20Core/private    setenv PRODUCT_NAME Three20Core    setenv PRODUCT_SETTINGS_PATH     setenv PRODUCT_TYPE com.apple.product-type.library.static    setenv PROFILING_CODE NO    setenv PROJECT Three20Core    setenv PROJECT_DERIVED_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/DerivedSources    setenv PROJECT_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv PROJECT_FILE_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Three20Core.xcodeproj    setenv PROJECT_NAME Three20Core    setenv PROJECT_TEMP_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build    setenv PUBLIC_HEADERS_FOLDER_PATH /../three20/Three20Core    setenv QUARTZCORE_FX "-framework QuartzCore"    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REPO_ROOT_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../..    setenv REZ_COLLECTOR_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/ResourceManagerResources    setenv REZ_EXECUTABLE YES    setenv REZ_OBJECTS_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator\" "    setenv ROOT_SOURCE_PATH /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../src    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk    setenv SDK_NAME iphonesimulator4.3    setenv SDK_PRODUCT_BUILD_VERSION 8F192    setenv SECURITY_FX "-framework Security"    setenv SED /usr/bin/sed    setenv SENTESTINGKIT_FX "-framework SenTestingKit"    setenv SEPARATE_STRIP YES    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/DerivedSources    setenv SHARED_PRECOMPS_DIR /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv SRCROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STDLIB_HEADERS /usr/include    setenv STDLIB_LIBRARY /usr/lib    setenv STOREKIT_FX "-framework StoreKit"    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE debugging    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/SymbolRepositories    setenv SYMROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products    setenv SYSTEMCONFIGURATION_FX "-framework SystemConfiguration"    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Three20Core    setenv TARGET_BUILD_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator    setenv TARGET_NAME Three20Core    setenv TARGET_TEMP_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build    setenv TEMP_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build    setenv TEMP_FILES_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build    setenv TEMP_FILE_DIR /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build    setenv TEMP_ROOT /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build    setenv THREE20CORE_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20Core.a\""    setenv THREE20NETWORK_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20Network.a\""    setenv THREE20STYLE_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20Style.a\""    setenv THREE20UICOMMON_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20UICommon.a\""    setenv THREE20UINAVIGATOR_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20UINavigator.a\""    setenv THREE20UI_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20UI.a\""    setenv THREE20_LIB "-force_load \"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/libThree20.a\""    setenv UID 501    setenv UIKIT_FX "-framework UIKit"    setenv UNSTRIPPED_PRODUCT NO    setenv USER santoshkhare    setenv USER_APPS_DIR /Users/santoshkhare/Applications    setenv USER_LIBRARY_DIR /Users/santoshkhare/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSION_INFO_BUILDER santoshkhare    setenv VERSION_INFO_FILE Three20Core_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Three20Core  PROJECT:Three20Core-\""    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Script-6E645EC91187AB0500F08CB1.sh0#
-
-CProcessPCH /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch.gch Headers/Three20Core_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s340781308.295560
-e340781310.968952
-r1
-xProcessPCH
-x/var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch.gch
-xHeaders/Three20Core_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@41"Precompile Headers/Three20Core_Prefix.pch340781308#340781310#0(0"0(0#0#134"/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core_Prefix.pch8656967168#3023"    cd /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-function -Wunused-label -Wunused-variable -Wshadow -Wnewline-eof -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-generated-files.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-own-target-headers.hmap -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-all-target-headers.hmap -iquote /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/Three20Core-project-headers.hmap -F/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/Developer/Library/Frameworks -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Products/Debug-iphonesimulator/../three20 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources/i386 -I/Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/../../Build/Three20Core.build/Debug-iphonesimulator/Three20Core.build/DerivedSources -c /Users/santoshkhare/Documents/PradeepProjects/UnsocialApp/git_unsocial/unsocial/three20/src/Three20Core/Headers/Three20Core_Prefix.pch -o /var/folders/CP/CP044jGjGyu+TQ5WHS3ai++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Three20Core_Prefix-acyjwggstfkhkufnizugnejbtsyf/Three20Core_Prefix.pch.gch0#
-
